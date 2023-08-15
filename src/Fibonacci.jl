@@ -8,7 +8,7 @@ export fibonacci
 """
     fibonacci(n)
 
-Return the 'n'-th and 'n+1'-st number of Fibonacci sequence.
+Return the 'n'-th and 'n+1'-st number of the Fibonacci sequence.
 
 # Examples
 ```jldoctest
