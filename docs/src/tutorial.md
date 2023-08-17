@@ -1,13 +1,19 @@
 # Tutorial
 
-To use the package after installing, choose which Fibonnaci number ```n``` to calculate.
+First the package must be installed. Enter the package mode by typing ```]``` and run
+```julia
+pkg> add https://github.com/mdienst/Fibonacci.jl
+```
 
-Run 
+To use the package afterwards, it can be imported with
 ```julia 
 using Fibonacci
 ```
 
-Then run 
+Now choose which Fibonnaci number ```n``` to calculate and run 
 ```julia
 fibonacci(n)
 ```
+
+Now have a look at the [examples](http://localhost:8000/example.html).
+See also: [other path](example.html)
