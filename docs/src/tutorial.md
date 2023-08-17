@@ -16,4 +16,4 @@ fibonacci(n)
 ```
 
 Now have a look at the [examples](http://localhost:8000/example.html).
-See also: [other path](example.html)
+See also [other path](example.html)
